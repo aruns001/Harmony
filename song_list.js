@@ -1,6 +1,12 @@
 //song list
 let All_song = [
   {
+    name: "jolly lo gymkhana-Beast",
+    path: "music/0.mp3",
+    img: "images/0.jpg",
+    singer: "Vijay"
+  },
+  {
     name: "Arabic Kuthu-Beast",
     path: "music/1.mp3",
     img: "images/1.jpg",
