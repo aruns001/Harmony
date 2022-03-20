@@ -17,7 +17,7 @@ body{
     display: flex;
     align-items: center;
     flex-direction: column;
-    border-radius: 20px;
+    border-radius: 0px;
     background: url('img1.jpg');
     box-shadow: 0.1px 4px 8px 4px rgba(0,0,0,0.5);
 }
@@ -308,12 +308,12 @@ box-shadow: inset 5px 5px 5px rgba(0,0,0,0.2),
   height: 30px;
   width: 30px;
   border-radius: 50%;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   display: flex;
   align-items: center;
   justify-content: center;
   cursor: pointer;
-  background: rgba(0, 0, 0, 0.1);	
+  background: rgb(0, 0, 0);	
 }
 #artist_name{
   font-size: 0.8em;
